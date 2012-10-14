@@ -34,7 +34,7 @@ Usage
 
 **API Usage**
 
-The API should be very straigh forwarded. To implement your own task you need to extend from the 'Task' class first and overwrite the 'doStart()' method. After your task is finish you have to call the 'complete()' method.
+The API should be very straigh forwarded. To implement your own task you need to extend from the 'Task' class first and overwrite the 'doStart()' method. At the end you have to call the 'complete()' method.
 
 E.g.
 
@@ -60,13 +60,3 @@ E.g.
 
 	group.start();
 
-
-Change log
-----------
-**v 0.2**
-
-* **[Modify]** Tasks uses now smaller hxSignal class to reduce file size
-
-**v 0.1**
-
-* **[Added]** Initial Task implementation
