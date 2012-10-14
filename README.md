@@ -3,9 +3,9 @@ hxUtils
 
 This project now contains the following sub utilities:
 
-* hxTasks
-* hxSignal
-* hxTween
+* hxTasks (as3, js, neko)
+* hxSignal (as3, js, neko)
+* hxTween (as3, js)
 
 Unit Tests
 -----
@@ -34,7 +34,7 @@ Usage
 
 **API Usage**
 
-The API should be very straigh forwarded. To implement your own task you need to extend from the 'Task' class first and overwrite the 'doStart()' method. At the end you have to call the 'complete()' method.
+The API should be very straight forward. To implement your own task you need to extend from the 'Task' class first and overwrite the 'doStart()' method. At the end you have to call the 'complete()' method.
 
 E.g.
 
