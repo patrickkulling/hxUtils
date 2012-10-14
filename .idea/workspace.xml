@@ -57,7 +57,17 @@
     <favorites_list name="hxUtils" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="4" selection-start="163" selection-end="163" vertical-scroll-proportion="0.1741486">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -67,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/hxSignal/dev/src_test/ExampleTest.hx" />
         <option value="$PROJECT_DIR$/hxSignal/dev/src_test/de/patrickkulling/signal/TestSignal.hx" />
         <option value="$PROJECT_DIR$/hxSignal/dev/src_test/TestSuite.hx" />
         <option value="$PROJECT_DIR$/hxSignal/dev/src/de/patrickkulling/signal/Signal.hx" />
@@ -83,6 +92,7 @@
         <option value="$PROJECT_DIR$/hxTween/example/src.de.patrickkulling.tween.examples/Main.hx" />
         <option value="$PROJECT_DIR$/hxTween/example/src.de.patrickkulling.tween.examples/de/patrickkulling/tween/examples/Main.hx" />
         <option value="$PROJECT_DIR$/hxTween/example/src/de/patrickkulling/tween/examples/Main.hx" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -282,14 +292,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16229117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16229117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -457,6 +467,13 @@
     <entry file="file://$PROJECT_DIR$/hxTween/dev/src/de/patrickkulling/tween/Tween.hx">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="53" selection-start="756" selection-end="756" vertical-scroll-proportion="0.27863777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="163" selection-end="163" vertical-scroll-proportion="0.1741486">
           <folding />
         </state>
       </provider>
