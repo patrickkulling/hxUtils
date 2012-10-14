@@ -1,0 +1,1 @@
+package de.patrickkulling.task.mocks;import de.patrickkulling.task.Task;class MockTask extends Task{	public var executedCount:Int;	public function new()	{		super();		executedCount = 0;	}	public override function doStart():Void	{		executedCount++;	}}

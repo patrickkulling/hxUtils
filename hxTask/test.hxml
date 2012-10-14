@@ -1,0 +1,34 @@
+## Flash 9+
+-main TestMain
+-lib munit
+-lib hamcrest
+-cp dev/src
+-cp ../hxSignal/dev/src
+
+-cp dev/src_test
+-swf-version 9
+-swf build/as3_test.swf
+
+--next
+
+## JavaScript
+-main TestMain
+-lib munit
+-lib hamcrest
+-cp dev/src
+-cp ../hxSignal/dev/src
+
+-cp dev/src_test
+-js build/js_test.js
+
+--next
+
+## Neko
+-main TestMain
+-lib munit
+-lib hamcrest
+-cp dev/src
+-cp ../hxSignal/dev/src
+
+-cp dev/src_test
+-neko build/neko_test.n

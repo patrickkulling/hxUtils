@@ -1,0 +1,6 @@
+version=0.9.5.2
+src=dev/src_test
+bin=build
+report=build/report
+hxml=test.hxml
+classPaths=dev/src

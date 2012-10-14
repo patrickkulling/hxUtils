@@ -1,0 +1,1 @@
+package de.patrickkulling.task;import de.patrickkulling.signal.Signal;class Task{	public var completeSignal:Signal<Task>;	public function new()	{		completeSignal = new Signal<Task>();	}	public function start():Void	{		doStart();	}	public function doStart():Void	{	}	public function complete():Void	{		completeSignal.dispatch(this);	}}

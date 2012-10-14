@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hxSignal/hxSignal.iml" filepath="$PROJECT_DIR$/hxSignal/hxSignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hxTask/hxTask.iml" filepath="$PROJECT_DIR$/hxTask/hxTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hxTween/hxTween.iml" filepath="$PROJECT_DIR$/hxTween/hxTween.iml" />
+    </modules>
+  </component>
+</project>
+
